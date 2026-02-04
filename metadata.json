@@ -1,0 +1,8 @@
+{
+  "name": "ReadyScale - Upskilling & Hiring Readiness Platform",
+  "description": "A comprehensive platform for associate upskilling and employer talent matching, featuring structured learning journeys, rigorous assessments, and AI-powered guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
